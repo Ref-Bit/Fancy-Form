@@ -1,0 +1,15 @@
+/* Themify Icons */
+@font-face{
+  font-family: Themify;
+  src: url('../fonts/themify.ttf');
+}
+/* Abel Font */
+@font-face{
+  font-family: Abel;
+  src: url('../fonts/Abel-Regular.ttf');
+}
+/* Anton Font */
+@font-face{
+  font-family: Anton;
+  src: url('../fonts/Anton-Regular.ttf');
+}

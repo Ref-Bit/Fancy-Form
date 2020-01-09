@@ -1,0 +1,13 @@
+{
+  "name": "fancy_form",
+  "version": "1.0.0",
+  "description": "A submission form with progress steps.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node js/main.js"
+  },
+  "keywords": [],
+  "author": "Ref-Bit",
+  "license": "ISC",
+  "dependencies": {}
+}
